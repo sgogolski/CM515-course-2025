@@ -16,7 +16,7 @@ Here are the four most useful R modules for me:
 Some interesting non-R modules I enjoyed:
 
 - [chatGPT](modules/01_chatGPT)
-- [Git your repo figured out](modules/14_Git/Readme.md)
+- [Git your repo figured out](modules/14_Git_and_version_control)
 
 ### Link to my website:
 
