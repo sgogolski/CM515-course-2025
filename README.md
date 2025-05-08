@@ -20,4 +20,4 @@ Some interesting non-R modules I enjoyed:
 
 ### Link to my website:
 
-[My GitHub website link](https://your-github-username.github.io)
+[My GitHub website link](https://sgogolski.github.io)
