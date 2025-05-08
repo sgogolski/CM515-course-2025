@@ -8,7 +8,7 @@ Here are the four most useful R modules for me:
 
 - [RStudio](modules/02_RStudio)
 - [Tidyverse](modules/04_Tidyverse)
-- [ggPlot Visualization](modules/05_ggPlot/Readme.md)
+- [ggPlot Visualization](modules/05_GGplot_Visualization)
 - [Plots in Presentation](modules/10_Plots/Readme.md)
 
 ### Non-R related modules:
