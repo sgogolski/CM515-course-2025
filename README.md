@@ -6,7 +6,7 @@ Use this reference to learn how to format this README: [Markdown on GitHub](http
 
 Here are the four most useful R modules for me:
 
-- [RStudio](modules/02_R-RStudio/Readme.md)
+- [RStudio](modules/02_RStudio)
 - [TidyR and Pipes](modules/04_TidyR/Readme.md)
 - [ggPlot Visualization](modules/05_ggPlot/Readme.md)
 - [Plots in Presentation](modules/10_Plots/Readme.md)
